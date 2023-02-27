@@ -1,0 +1,85 @@
+{
+    "products":[
+        {
+            "id":1,
+            "name":"Iphone 12 pro",
+            "desc":"Apple iPhone 12th generation",
+            "price":999,
+            "color":"#33505a",
+            "imag":"assets/iphone12pro.jpg"
+        },
+        {
+            "id":2,
+            "name":" Macbook Air",
+            "desc":"Apple Macbook air with apple silicon",
+            "price":699,
+            "color":"#33505a",
+            "imag":"assets/mac.jpg"
+        },
+        {
+            "id":3,
+            "name":" playstation 5",
+            "desc":"sony playstation 5th generation",
+            "price":699,
+            "color":"#33505a",
+            "imag":"assets/ps5.jpeg"
+        },
+        {
+            "id":4,
+            "name":"Airpods Pro",
+            "desc":"Airpodes Pro first generation",
+            "price":200,
+            "color":"#33505a",
+            "imag":"assets/airpod.jpg"
+        },
+        {
+            "id":5,
+            "name":" Ipad Pro",
+            "desc":"Apple iPad Pro 2020 edition",
+            "price":799,
+            "color":"#33505a",
+            "imag":"assets/ipadpro.jpeg"
+        },
+        {
+            "id":6,
+            "name":"samsung galaxy s21 ultra",
+            "desc":"samsung galaxy s21 ultra 2021 edition",
+            "price":1299,
+            "color":"#33505a",
+            "imag":"assets/s21-ultra.jpg"
+        },
+        {
+            "id":7,
+            "name":"vivo x80 pro",
+            "desc":"vivo x80 pro 2021 edition",
+            "price":750,
+            "color":"#33505a",
+            "imag":"assets/x80pro.jpeg"
+        },
+        {
+            "id":8,
+            "name":"Oneplus Nord 2 5g",
+            "desc":"Oneplus Nord 2 oxygen os",
+            "price":500,
+            "color":"#33505a",
+            "imag":"assets/nord2.jpeg"
+        },
+        {
+            "id":9,
+            "name":"Oneplus 10 pro 5g",
+            "desc":"Oneplus 10 pro 2023 edition",
+            "price":879,
+            "color":"#33505a",
+            "imag":"assets/op10pro.jpeg"
+        },
+        {
+            "id":10,
+            "name":"Google pixel 7 pro 5g",
+            "desc":"Google pixel 7 pro 2022 edition",
+            "price":850,
+            "color":"#33505a",
+            "imag":"assets/pixel7pro.jpeg"
+        }
+
+    ]
+}
